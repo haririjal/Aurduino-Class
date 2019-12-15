@@ -5,7 +5,9 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(8,1);
-  delay(1000);
+  delay(2000);
   digitalWrite(8,0);
   delay(1000);
+ 
+
 }
